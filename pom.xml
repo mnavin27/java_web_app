@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>groupId</groupId>
 	<artifactId>artifactId</artifactId>
-	<packaging>artifact_extension</packaging>
-	<version>artifact_version</version>
+	<packaging>artifactextension</packaging>
+	<version>artifactversion</version>
 	<name>HelloWorld Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
